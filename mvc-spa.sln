@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc-spa", "mvc-spa\mvc-spa.csproj", "{9CBA405D-B03E-4EF4-B635-D7ED4ED5A007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CBA405D-B03E-4EF4-B635-D7ED4ED5A007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBA405D-B03E-4EF4-B635-D7ED4ED5A007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBA405D-B03E-4EF4-B635-D7ED4ED5A007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBA405D-B03E-4EF4-B635-D7ED4ED5A007}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
